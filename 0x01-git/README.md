@@ -1,2 +1,2 @@
-Hi,
-My first readme
+Hi everyone,
+This is my first readme.
